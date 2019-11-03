@@ -1,0 +1,3 @@
+#define VERSION "0.750"
+#define BUILD "Tue Jul 1 15:28:14 PDT 2016"
+//#define PARALLEL_PROC_CAPABLE 1
